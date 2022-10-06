@@ -1,2 +1,2 @@
-# curriculum_v3
-Atualização de funções 
+# Curriculum Vitae
+Criado em HTML e CSS
